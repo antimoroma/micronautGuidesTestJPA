@@ -1,0 +1,16 @@
+gettingStarted: 
+  title: Getting Started
+  requirements: What you will need
+  solution: Solution
+writingTheApp:
+  title: Writing the App
+  datasource: Configure Data Source and JPA
+  domain: Domain
+  appConfiguration: Application Configuration
+  repository: Repository Access
+  controller: Controller
+  tests: Tests
+runningTheApp: Running the app
+usingPostgresql: Using Postgresql
+nextSteps:
+  title: Next Steps
